@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List of Items</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="listItemimage">item_image</string>
+    <string name="item_image">strings</string>
+    <string name="name">name</string>
+</resources>
